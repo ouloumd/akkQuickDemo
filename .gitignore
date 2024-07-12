@@ -1,0 +1,9 @@
+.gradle/
+build/
+.idea/
+*.hprof
+all-openapi.yaml
+.DS_Store
+HEAD_CHANGELOG.md
+TASK_CHANGELOG.md
+*.txt

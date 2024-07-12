@@ -1,0 +1,5 @@
+
+zkotlin:S6619&"0Remove this useless null check, it always fails.(Úšê™øÿÿÿÿ8òûÜ¾…2J$cdc50fa0-ee83-47e7-b9a6-11409119f5e2
+ƒkotlin:S6619,"9Remove this useless null-safe access ?., it always fails.(¡éÎÊøÿÿÿÿ8òûÜ¾…2J$d9080af7-8750-4397-a706-5a8a84c287d7
+nkotlin:S1481"*Remove this unused "trois" local variable.(ˆ×Äk8ôûÜ¾…2J$41ca7b51-963b-4809-b1b3-43356f715a2c
+skotlin:S1481")Remove this unused "hash" local variable.(¦¦§ÿÿÿÿÿ8ôûÜ¾…2J$dab5487e-7831-4c04-9740-71a3719e3eb8
